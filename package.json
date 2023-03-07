@@ -1,0 +1,34 @@
+{
+  "name": "count-words-repetitions",
+  "version": "1.0.0",
+  "description": "Count the number of repetitions of each word quickly and easily!",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredo-baratta/count-words-repetitions.git"
+  },
+  "keywords": [
+    "count",
+    "text",
+    "words",
+    "repetitions",
+    "filter-numbers",
+    "filter-symbols"
+  ],
+  "author": "Alfredo Baratta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfredo-baratta/count-words-repetitions/issues"
+  },
+  "homepage": "https://github.com/alfredo-baratta/count-words-repetitions#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
